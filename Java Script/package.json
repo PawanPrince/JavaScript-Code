@@ -1,0 +1,26 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PawanPrince/YourRepository.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PawanPrince/YourRepository/issues"
+  },
+  "homepage": "https://github.com/PawanPrince/YourRepository#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "vite": "^6.2.5",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1"
+  }
+}
