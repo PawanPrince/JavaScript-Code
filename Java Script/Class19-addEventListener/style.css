@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 30px;
+    box-sizing: border-box;
+}
+section{
+    height: 500px;
+    width: 500px;
+    background-color: white;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center
+
+}
+article{
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border: 2px solid black;
+}
